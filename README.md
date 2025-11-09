@@ -27,7 +27,7 @@
 ## Сборка с Qt Creator
 
 1. Открой Qt Creator.
-2. Выбери **File → Open File or Project** и укажи файл `XorFileProcessor.pro` или `CMakeLists.txt`.
+2. Выбери **File → Open File or Project** и укажи файл `CMakeLists.txt`.
 3. Настрой **Kit** для Qt 6.10 + MinGW.
 4. Сборка и запуск проекта:
    - **Build → Build Project**

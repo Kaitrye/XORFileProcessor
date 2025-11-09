@@ -1,4 +1,4 @@
-# XorFileProcessor
+# XORFileProcessor
 
 Программа для модификации файлов бинарной операцией XOR с 8-байтным ключом.
 
@@ -32,3 +32,5 @@
 4. Сборка и запуск проекта:
    - **Build → Build Project**
    - **Build → Run**
+
+---
